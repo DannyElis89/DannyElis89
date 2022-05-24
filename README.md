@@ -29,18 +29,6 @@ Médica Veterinária formada pela UFRGS, atualmente em transição de carreira e
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
