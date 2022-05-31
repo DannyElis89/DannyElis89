@@ -21,7 +21,7 @@
 
 
 ### Glad to see you here!  
-Natural de Ponta Grossa/PR, vivendo há 14 anos em Porto Alegre/RS.
+Natural de Ponta Grossa/PR vivendo em Porto Alegre/RS.
 
 Médica Veterinária formada pela UFRGS, atualmente em transição de carreira estudando Desenvolvimento Web Full Stack na Trybe.  
   
