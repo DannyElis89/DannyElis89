@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Danny Elis Simioni!🙋‍♀️
 ### Glad to see you here!
-I'm a veterinarian currently transitioning to a career in technology. I'm based in Porto Alegre, RS and I'm currently seeking my first professional opportunity in programming.
+- I'm a veterinarian currently transitioning to a career in technology.
+- I'm based in Porto Alegre, RS and I'm currently seeking my first professional opportunity in programming.
 
 <a href="https://github.com/DannyElis89" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -9,8 +10,24 @@ I'm a veterinarian currently transitioning to a career in technology. I'm based 
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
+## Languages
+- Portuguese (pt-br): fluent
+- English: Advanced (reading), Intermediate (writing and speaking)
+- Spanish: Basic
 
-## Languages and Tools
+## Personal Skills:
+- Self-management
+- Leadership
+- Creativity
+- Soft skills
+- Communication
+- Collaboration
+- Emotional intelligence
+- Critical thinking
+- Flexibility
+- Teamwork
+
+## Professional Skills:
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,github,react,redux,docker,mysql,nodejs,express,ts,python,figma,mongodb,cs,)](https://skills.thijs.gg)
 <br/>
 
@@ -28,8 +45,6 @@ I'm a veterinarian currently transitioning to a career in technology. I'm based 
 
 <br/>
 
-
-
 <br/>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=DannyElis89&&style=flat-square)
@@ -42,3 +57,6 @@ Email: dannyelis89@gmail.com <br>
 [LinkedIn](linkedin.com/in/dannyelissimioni)<br>
 [GitHub](github.com/dannyelissimioni)
 <br />
+
+
+Feel free to reach out to me if you have any questions, opportunities or just want to chat!
